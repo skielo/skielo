@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm always trying to take over the world
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with OpenSource projects
 - 🥅 Life Goal: Help other to become better
 - ⚡ Fun fact: I love sports, all of them
 

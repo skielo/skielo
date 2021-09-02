@@ -59,24 +59,18 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<br />
+<br />
+<!--<img align="left" alt="skielo's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skielo&layout=compact" />-->
 <br />
 <br />
 
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="skielo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=skielo&show_icons=true&hide_border=true" />
+  <img align="left" alt="skielo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skielo" />
 
 </details>
 
